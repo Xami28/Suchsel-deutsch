@@ -1,6 +1,6 @@
 # Pojektdokumentation
 
-Samuel Lucena, Dorian Herzig und Simex Veljikovic
+Samuel Lucena, Dorian Herzig und Simex Veljkovic
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
