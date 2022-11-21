@@ -1,6 +1,6 @@
 # Pojektdokumentation
 
-Samuel Lucena, Dorian Herzig und Simex Veljkovic
+Samuel Lucena, Dorian Herzig und Simon Veljkovic
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -19,9 +19,12 @@ Unser Projekt ist ein Suchsel mit verschiedenen Wortarten.
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |  Muss           | F    | Als ein User möchte ich, das ich entscheiden kann, welche Wortart mein Suchsel hatt.  |
-| 2    |                 |      |                                    |
+| 2    |  Muss           | F    | Als ein User möchte ich, das ich eine eigene Rastergrösse definieren kann.            |
+| 3    |  Muss           | F    | Als ein User möchte ich, dass das Programm mir angibt, welche Wörter ich schon erraten habe.|
+| 4    |  Muss           | F    | Als ein User möchte ich, dass ich weiss wann ich ein Wort richtig habe.|
+| 5    |  Kann           | F    | Als ein User möchte ich, dass ich weiss wann
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
