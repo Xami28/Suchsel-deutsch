@@ -20,7 +20,7 @@ Unser Projekt ist ein Suchsel mit verschiedenen Wortarten.
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |  Muss           | F    | Als ein User möchte ich, das ich entscheiden kann, welche Wortart mein Suchsel hatt.  |
 | 2    |  Muss           | F    | Als ein User möchte ich, das ich eine eigene Rastergrösse definieren kann.            |
-| 3    |  Muss           | F    | Als ein User möchte ich, dass das Programm mir angibt, welche Wörter ich schon erraten habe.|
+| 3    |  Muss           | F    | Als ein User möchte ich, dass das Programm mir angibt, welche Wörter ich nicht erraten habe.|
 | 4    |  Muss           | F    | Als ein User möchte ich, dass ich weiss wann ich ein Wort richtig habe.|
 | 5    |  Kann           | F    | Als ein User möchte ich, dass ich weiss wann
 
