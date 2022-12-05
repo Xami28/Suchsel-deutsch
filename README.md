@@ -80,8 +80,16 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 05.12.2022 | OK | Simon Veljkovic |
+| 1.2  | 05.12.2022 | OK | Simon Veljkovic |
+| 1.3  | 05.12.2022 | OK | Simon Veljkovic |
+| 2.1  | 05.12.2022 | OK | Simon Veljkovic |
+| 2.2  | 05.12.2022 | OK | Simon Veljkovic |
+| 3.1  | 05.12.2022 | OK | Simon Veljkovic |
+| 4.1  | 05.12.2022 | OK | Simon Veljkovic |
+| 5.1  | 05.12.2022 | OK | Simon Veljkovic |
+| 6.1  | 05.12.2022 | OK | Simon Veljkovic |
+| 7.1  | 05.12.2022 | NOK | Simon Veljkovic |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
