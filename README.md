@@ -40,7 +40,7 @@ Unser Projekt ist ein Suchsel mit verschiedenen Wortarten.
 | 4.1 | Das Programm wurde gestartet und das Suchsel erstellt | richtige Eingabe | Das richtig eingegebene Wort wird Grün im Suchsel angezeigt. |
 | 5.1 | Der User hat alle Versuche aufgebraucht. | keine Eingabe | Das Programm zeigt alle gefundene und nicht gefundene Wörter. |
 | 6.1 | Der User hat ein Wort richtig eingegeben | Eingabe eines richtigen Worts | Das richtig geschriebene Wort wird nun grün im Suchsel angezeigt. |
-| 7.1 |  |  |  |
+| 7.1 | Das Programm ist fertig und fragt ob man nochmal spielen will. | "y"/"n" | Das Programm gibt ein neues suchsel aus oder schliesst sich. |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
