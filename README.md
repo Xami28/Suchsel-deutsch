@@ -31,8 +31,14 @@ Unser Projekt ist ein Suchsel mit verschiedenen Wortarten.
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1 | Das Programm fragt dich nach der deiner gewählten Wortwahl ab. | "Nomen" | Das Programm fragt die Nächste Frage |
+| 1.2 | Das Programm fragt dich nach der deiner gewählten Wortwahl ab. | "Stein" | fehlerhafte Eingabe bitte erneut eingeben |
+| 1.3 | Das Programm fragt dich nach der deiner gewählten Wortwahl ab. | "17" | fehlerhafte Eingabe bitte erneut eingeben |
+| 2.1 | Das Programm fragt dich wie gross das Suchsel sein soll. | "17" | Das programm fragt die nächst Dimension |
+| 2.2 | Das Programm fragt dich wie gross das Suchsel sein soll. | "Stein" |  fehlerhafte Eingabe bitte erneut eingeben |
+| 3.1 | Der User hat alle Versuche aufgebraucht. | keine Eingabe | Das Programm zeigt alle gefundene und schaltet ab |
+| 4.1  |  |         |                   |
+| ...  |  |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
