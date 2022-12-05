@@ -4,8 +4,7 @@ Samuel Lucena, Dorian Herzig und Simon Veljkovic
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 26.09 | 0.0.1   | Projekt wurde gestartet.|
-| 26.09 | 0.0.2   |                                                              |
+| 26.09 | 0.0.1   | Projekt wurde gestartet.|                                    |                  
 | 05.12 | 1.0.0   | Projekt wurde beendet.|                                      |
 
 ## 1 Informieren
@@ -42,21 +41,13 @@ Unser Projekt ist ein Suchsel mit verschiedenen Wortarten.
 | 6.1 | Der User hat ein Wort richtig eingegeben | Eingabe eines richtigen Worts | Das richtig geschriebene Wort wird nun grün im Suchsel angezeigt. |
 | 7.1 | Das Programm ist fertig und fragt ob man nochmal spielen will. | "y"/"n" | Das Programm gibt ein neues suchsel aus oder schliesst sich. |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
-### 1.4 Diagramme
-
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
-
 ## 3 Entscheiden
 
 Wir werden anhand unserer User-Stories das Projekt angehen.
 
+## 4 Kontrollieren
 
-
-## 5 Kontrollieren
-
-### 5.1 Testprotokoll
+### 4.1 Testprotokoll
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
