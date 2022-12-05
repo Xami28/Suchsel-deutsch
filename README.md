@@ -6,7 +6,7 @@ Samuel Lucena, Dorian Herzig und Simon Veljkovic
 | ----- | ------- | ------------------------------------------------------------ |
 | 26.09 | 0.0.1   | Projekt wurde gestartet.|
 | 26.09 | 0.0.2   |                                                              |
-| 05.12      | 1.0.0   |                                                              |
+| 05.12 | 1.0.0   | Projekt wurde beendet.|                                      |
 
 ## 1 Informieren
 
